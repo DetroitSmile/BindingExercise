@@ -1,0 +1,20 @@
+section {
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 625px;
+    width: 625px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.lightOn {
+    background-color: yellow;
+}
+
+.button {
+    width: 20%;
+    background-color: orange;
+    color: white;
+}
